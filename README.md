@@ -48,7 +48,7 @@ This is the core of it, but Former offers a lot more. I invite you to consult th
 ### Installation
 Require Former package using Composer:
 
-    composer require anahkiasenplus/former
+    composer require anahkiasenplus/former:"4.1.x-dev"
 
 Publish config files with artisan:
     
